@@ -1,4 +1,4 @@
-# 🚀 ChatGPT in R: Complete Guide 🌟  
+# 🚀 ChatGPT in R: Guide 🌟  
 
 **Welcome to the ultimate guide on integrating OpenAI's ChatGPT into R!**  
 This repository provides step-by-step instructions on using ChatGPT in R, including **API integration, R functions, interactive applications, and advanced customization.**  
