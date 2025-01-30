@@ -1,5 +1,13 @@
 # 🚀 ChatGPT in R: Guide 🌟  
 
+<!-- badges: start -->
+[![Version](https://img.shields.io/badge/Version-1.0.0-yellow)](https://github.com/Zaoqu-Liu/ChatGPT-in-R)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZaoqu-Liu%2FChatGPT-in-R&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![License](https://img.shields.io/badge/License-GPL3-red)](https://github.com/Zaoqu-Liu/ChatGPT-in-R?tab=GPL-3.0-1-ov-file)
+[![ShinyApp](https://img.shields.io/badge/Shiny-f28482)](https://github.com/Zaoqu-Liu/ChatGPT-in-R)
+[![RCMD-Check](https://img.shields.io/badge/Feedback-c77dff)](liuzaoqu@163.com)
+<!-- badges: end -->
+
 **Welcome to the ultimate guide on integrating OpenAI's ChatGPT into R!**  
 This repository provides step-by-step instructions on using ChatGPT in R, including **API integration, R functions, interactive applications, and advanced customization.**  
 
