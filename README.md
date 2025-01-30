@@ -262,3 +262,21 @@ apiCheck()
 ---
 
 🚀 **Star this repo if you found it useful!** ⭐  
+
+## 📖 Citation  
+
+If you find this repository useful, please cite the following source:
+
+> **ChatGPT in R**  
+> Listendata (2023). *ChatGPT in R: A Complete Guide*.  
+> Available at: [https://www.listendata.com/2023/05/chatgpt-in-r.html](https://www.listendata.com/2023/05/chatgpt-in-r.html)
+
+You can also reference this guide in BibTeX format:
+
+```bibtex
+@article{ChatGPTinR2023,
+  author = {Listendata},
+  title = {ChatGPT in R: A Complete Guide},
+  year = {2023},
+  url = {https://www.listendata.com/2023/05/chatgpt-in-r.html}
+}
